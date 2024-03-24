@@ -1,0 +1,3 @@
+Ten: Pham Thanh Tri -- Tuoi: 19 -- Luong: 19.500.000
+Ten: Nguyen Van Manh -- Tuoi: 20 -- Luong: 20.500.000
+Ten: Tran Van Tuan -- Tuoi: 22 -- Luong: 30.100.000
